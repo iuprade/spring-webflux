@@ -8,6 +8,6 @@ mvn spring-boot:run
 `
 
 `
-cutl localhost:8080/hello
+curl localhost:8080/hello
 `
 
