@@ -4,7 +4,7 @@
 
 
 `
-mvn spring-boot:run
+mvn spring-boot:run OR ./mvnw spring-boot:run
 `
 
 `
